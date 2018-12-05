@@ -2,35 +2,46 @@
 
 The system will help Mobile Shops Management System. The system will keep record of every product when it is stored in that shop. When a customer will purchase a product the system will calculate the bill record.
 
-## Started process
+## How to Start
 
-It is very easy process to start.These instraction follow and start this process.
+It is very easy process .These instructions will get the project up and running on my local machine for development and testing purposes.
 
 ### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+For this software runnig Requirment need Processor Intel Pantium 4 1.8 Clock Speed
+H.D.D 108 MB
+Ram 128 Mb
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+What need to install the software and how to install them
+As a software is run & install it is same and normal way to install . 
+The Example is: 
+![1](https://user-images.githubusercontent.com/41760228/49524887-cbc25300-f8d6-11e8-829e-47ee8b05c06c.PNG)
 
-Say what the step will be
 
-```
-Give the example
-```
+then
+![2](https://user-images.githubusercontent.com/41760228/49524893-cf55da00-f8d6-11e8-9b7c-9b3cdaa2a1e6.PNG)
 
-And repeat
 
-```
-until finished
-```
 
-End with an example of getting some data out of the system or using it for a little demo
+
+
+s://user-images.githubusercontent.com/41760228/49525426-e943ec80-f8d7-11e8-98c6-818dedfd7d5a.PNG)
+
+
+
+
+
+![4](https://user-images.githubusercontent.com/41760228/49525432-eba64680-f8d7-11e8-879e-2e0286ab21c0.PNG)
+
+
+![7](https://user-images.githubusercontent.com/41760228/49525447-f06afa80-f8d7-11e8-8bcf-c4498fc90ce1.PNG)
+
+
+
+![8](https://user-images.githubusercontent.com/41760228/49525456-f7920880-f8d7-11e8-9d42-9ede1ff4129e.PNG)
+
+
 
 ## Running the tests
 
@@ -44,41 +55,30 @@ Explain what these tests test and why
 Give an example
 ```
 
-### And coding style tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+## Build With
+Abode Photoshop 
+Microsoft Power Point
+Java 
+Netbean
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+It is the first Version 1.0.0
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Sabbir Islam Mugda
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Daffodil International University 
 
 ## Acknowledgments
 
