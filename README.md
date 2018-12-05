@@ -7,9 +7,9 @@ The system will help Mobile Shops Management System. The system will keep record
 It is very easy process .These instructions will get the project up and running on my local machine for development and testing purposes.
 
 ### Prerequisites
-For this software runnig Requirment need Processor Intel Pantium 4 1.8 Clock Speed
-H.D.D 108 MB
-Ram 128 Mb
+For this software runnig Requirment need Processor Intel Pantium 3.1.8 Clock Speed
+H.D.D 99 MB
+Ram 512 Mb
 
 ### Installing
 
@@ -52,7 +52,7 @@ Explain how to run the automated tests for this system
 Explain what these tests test and why
 
 ```
-Give an example
+
 ```
 
 
@@ -60,28 +60,30 @@ Give an example
 ## Deployment
 
 ## Build With
-Abode Photoshop 
+
 Microsoft Power Point
+JDK
 Java 
 Netbean
+eclips
 
 ## Contributing
 
 
 ## Versioning
 
-It is the first Version 1.0.0
+It is the secound Version 2.0.0
 
 ## Authors
 
-Sabbir Islam Mugda
+shobo mozumder
 
 ## License
 
-This project is licensed under the Daffodil International University 
+The Daffodil International University This project is licensed  
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
+* some code are used by google search
+* Inspiration in Developers.com
 * etc
