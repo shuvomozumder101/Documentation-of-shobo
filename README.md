@@ -15,28 +15,20 @@ Ram 512 Mb
 
 What need to install the software and how to install them
 As a software is run & install it is same and normal way to install . 
-The Example is: 
+
+The Example is:
+how to install
+
 ![1](https://user-images.githubusercontent.com/41760228/49524887-cbc25300-f8d6-11e8-829e-47ee8b05c06c.PNG)
 
 
-then
 ![2](https://user-images.githubusercontent.com/41760228/49524893-cf55da00-f8d6-11e8-9b7c-9b3cdaa2a1e6.PNG)
-
-
-
-
-
-s://user-images.githubusercontent.com/41760228/49525426-e943ec80-f8d7-11e8-98c6-818dedfd7d5a.PNG)
-
-
-
 
 
 ![4](https://user-images.githubusercontent.com/41760228/49525432-eba64680-f8d7-11e8-879e-2e0286ab21c0.PNG)
 
 
 ![7](https://user-images.githubusercontent.com/41760228/49525447-f06afa80-f8d7-11e8-8bcf-c4498fc90ce1.PNG)
-
 
 
 ![8](https://user-images.githubusercontent.com/41760228/49525456-f7920880-f8d7-11e8-9d42-9ede1ff4129e.PNG)
