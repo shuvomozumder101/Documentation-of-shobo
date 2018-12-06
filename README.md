@@ -25,8 +25,6 @@ how to install
 
 ![capture5](https://user-images.githubusercontent.com/43872246/49537734-ebb43f80-f8f3-11e8-8cbb-6c23fb7260a1.PNG)
 
-![2](https://user-images.githubusercontent.com/41760228/49524893-cf55da00-f8d6-11e8-9b7c-9b3cdaa2a1e6.PNG)
-
 ![8](https://user-images.githubusercontent.com/41760228/49525456-f7920880-f8d7-11e8-9d42-9ede1ff4129e.PNG)
 
 
